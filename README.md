@@ -8,4 +8,6 @@ Call the BOSS by phone
 
 Then fill it with your ENVs
 
+## Running
 
+`docker compose up -d`

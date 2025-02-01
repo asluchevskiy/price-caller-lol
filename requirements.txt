@@ -1,0 +1,4 @@
+requests
+loguru
+twilio
+python-dotenv
