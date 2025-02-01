@@ -1,6 +1,8 @@
 # Price LOL caller
 
-Call the BOSS by phone
+Call to the BOSS by phone if coin price will drop bellow the target price.
+
+You need to get API keys on the https://www.twilio.com
 
 ## Configuragion
 
